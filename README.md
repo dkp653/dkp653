@@ -6,7 +6,7 @@
 - ☁️ Working with Azure & Databricks  
 - 📊 Passionate about Data Engineering & Analytics  
 - 🔍 Interested in solving real-world data problems  
-
+---
 ## 🛠️ Skills & Expertise
 
 <img align="right" height="400" style="margin-left: 10px;" src="https://raw.githubusercontent.com/dkp653/dkp653/main/Github Image1.png">
