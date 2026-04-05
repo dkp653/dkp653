@@ -14,10 +14,10 @@
 ### 💻 Programming Languages
 - Python, SQL, HTML, CSS
 
-### 📊 Domain Knowledge
-- Machine Learning  
-- Cloud Computing  
-- Big Data Analytics  
+### 📊 Domain Knowledge  
+- Big Data Analytics
+- Cloud Computing 
+- Machine Learning 
 - Data Structures & Algorithms  
 
 ### ⚙️ Tools & Frameworks
