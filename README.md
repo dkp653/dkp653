@@ -12,7 +12,7 @@
 ### 💻 Programming Languages
 - Python, SQL, HTML, CSS
 
-<img align="right" height="300" style="margin-left: 10px;" src="https://raw.githubusercontent.com/dkp653/dkp653/main/Github Image1.png">
+<img align="right" height="400" style="margin-left: 10px;" src="https://raw.githubusercontent.com/dkp653/dkp653/main/Github Image1.png">
 
 ### 📊 Domain Knowledge
 - Machine Learning  
