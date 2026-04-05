@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kavyapriya</h1>
 <h3 align="center">Turning data into scalable solutions & meaningful insights</h3>
 
-<img align="right" alt="coding" width="300" src="https://raw.githubusercontent.com/dkp653/dkp653/main/Github Image1.png">
+<img align="right" height="220" style="margin-left: 20px;" src="https://raw.githubusercontent.com/dkp653/dkp653/main/profile.png">
 
 ---
 
