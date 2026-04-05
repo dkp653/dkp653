@@ -9,7 +9,7 @@
 
 ## 🛠️ Skills & Expertise
 
-<img align="right" height="220" style="margin-left: 20px;" src="https://raw.githubusercontent.com/dkp653/dkp653/main/Github Image1.png">
+<img align="right" height="270" style="margin-left: 20px;" src="https://raw.githubusercontent.com/dkp653/dkp653/main/Github Image1.png">
 
 ### 💻 Programming Languages
 - Python, SQL, HTML, CSS  
