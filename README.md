@@ -16,7 +16,8 @@
 
 ### 📊 Domain Knowledge  
 - Big Data Analytics
-- Cloud Computing 
+- Cloud Computing
+- Artificial Intelligence
 - Machine Learning 
 - Data Structures & Algorithms  
 
